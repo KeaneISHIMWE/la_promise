@@ -1,2 +1,3 @@
-# group8
-This is group work
+# la-promise
+
+this is a school website 
